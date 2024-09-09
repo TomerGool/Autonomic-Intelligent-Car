@@ -1,4 +1,4 @@
-# Autonomic-Intelligent-Car
-Autonomic Intelligent Car
+# Autonomic_Vehicle_Course
 
-Made By Tomer Golbahari and Noa Shmueli for Autonomic Intelligent Car course
+Tomer Golbahari, Noa Shmueli
+
